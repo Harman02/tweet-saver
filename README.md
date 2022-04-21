@@ -1,6 +1,6 @@
 # tweet-saver
-# this project searches the twitter for a paticular keyword you provide and then uses twitter search API to display the results. You can save the tweets lo
-# locally by using drag and drop.
+## This project searches the twitter for a paticular keyword you provide and then uses twitter search API to display the results. You can save the tweets 
+## locally by using drag and drop.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
